@@ -69,7 +69,7 @@
   justify-content: end;
 }
 
-.places__website_url-heading {
+.places__website-url-heading {
   color: #aaaaaa;
   font-family: "inter", sans-serif;
   font-weight: 400;
@@ -78,7 +78,7 @@
   letter-spacing: 12%;
 }
 
-.places__website_artist {
+.places__website-artist {
   color: #fff;
   font-family: "inter", sans-serif;
   font-weight: 400;
